@@ -1,6 +1,8 @@
 This repo will be used to accept incoming content requests.
 
-Blog Request Ex.
+I have created an issue template for Blog Post Request. See example below.
+
+## Blog Request Ex.
 
 ## Blog Post Title
 "Deployment at the Edge"
