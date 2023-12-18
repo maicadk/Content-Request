@@ -1,12 +1,12 @@
-This repo will be used to accept incoming content request.
+This repo will be used to accept incoming content requests.
 
 Blog Request Ex.
 
 ## Blog Post Title
-"Deployment the Edge"
+"Deployment at the Edge"
 
 ## Summary
-Highlight of how the Conduit Platform deploys code at the edge.
+Highlight how the Conduit Platform enables deployment at the edge.
 
 ## Key Points
 - edge servers
